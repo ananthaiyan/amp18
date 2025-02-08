@@ -68,14 +68,15 @@ function App() {
 
       {/* Hero Section */}
       <section className="relative h-screen">
-        <div 
-          className="absolute inset-0 bg-cover bg-center"
-          style={{
-            backgroundImage: "url('hero.jpg')"
-          }}
-        >
-          <div className="absolute inset-0 hero-gradient" />
-        </div>
+      <div 
+  className="absolute inset-0 bg-cover bg-center"
+  style={{
+    backgroundImage: "url('/hero.jpg')"
+  }}
+>
+  <div className="absolute inset-0 hero-gradient" />
+</div>
+
         
         <div className="relative h-full flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
