@@ -71,7 +71,7 @@ function App() {
       <div 
   className="absolute inset-0 bg-cover bg-center"
   style={{
-    backgroundImage: "url('/hero.jpg')"
+    backgroundImage: "url('https://variety.com/wp-content/uploads/2023/11/The-Weeknd-2.jpg')"
   }}
 >
   <div className="absolute inset-0 hero-gradient" />
