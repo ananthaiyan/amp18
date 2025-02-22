@@ -82,7 +82,7 @@ function App() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="animate-on-scroll">
               <h1 className="text-6xl md:text-8xl font-bold mb-6 align-left">The Weeknd</h1>
-              <p className="text-2xl md:text-3xl mb-8 text-gray-300">Exclusive Listening Party</p>
+              <p className="text-2xl md:text-3xl mb-8 text-gray-300">Blinding Nights - Chennai 1.0</p>
               <button className="bg-primary px-8 py-3 rounded-full text-lg hover:bg-opacity-90 transition-all flex items-center gap-2">
                 Book Now <ArrowRight size={20} />
               </button>
